@@ -1,0 +1,6 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\Polymorphism\ExamPreparation\bin\Debug\ExamPreparation.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\ExamPreparation\bin\Debug\ExamPreparation.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\ExamPreparation\bin\Debug\ExamPreparation.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\ExamPreparation\bin\Debug\ExamPreparation.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\ExamPreparation\obj\Debug\ExamPreparation.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\ExamPreparation\obj\Debug\ExamPreparation.pdb

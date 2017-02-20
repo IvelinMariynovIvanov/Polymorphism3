@@ -1,0 +1,6 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\exam10.07\bin\Debug\exam10.07.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\exam10.07\bin\Debug\exam10.07.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\exam10.07\bin\Debug\exam10.07.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\exam10.07\obj\Debug\exam10.07.csprojResolveAssemblyReference.cache
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\exam10.07\obj\Debug\exam10.07.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\exam10.07\obj\Debug\exam10.07.pdb

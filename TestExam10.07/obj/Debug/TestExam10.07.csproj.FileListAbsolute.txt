@@ -1,0 +1,8 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\TestExam10.07\bin\Debug\TestExam10.07.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\TestExam10.07\bin\Debug\TestExam10.07.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\TestExam10.07\bin\Debug\TestExam10.07.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\TestExam10.07\obj\Debug\TestExam10.07.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\TestExam10.07\obj\Debug\TestExam10.07.pdb
+M:\proekti\c#\OOPBasic\Polymorphism\TestExam10.07\bin\Debug\TestExam10.07.exe.config
+M:\proekti\c#\OOPBasic\Polymorphism\TestExam10.07\obj\Debug\TestExam10.07.exe
+M:\proekti\c#\OOPBasic\Polymorphism\TestExam10.07\obj\Debug\TestExam10.07.pdb

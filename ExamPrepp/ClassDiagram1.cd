@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ExamPrepp.Program" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamPrepp.HomeUnit" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAACAAABAAAAICAAAAAAICAAAAAAAAgAIAAAAAAA=</HashCode>
+      <FileName>HomeUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamPrepp.Couple" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAICAAAAAAABAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Couple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamPrepp.Single">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Single.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamPrepp.YoungCouple" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAACAAAAAAAACAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>YoungCouple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamPrepp.YoungCoupleWithChildren">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQICAAAAAAAAAQAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>YoungCoupleWithChildren.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamPrepp.OldCouple" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAACAAAAAAAAAAAAAAQgAAAAAAAAAA=</HashCode>
+      <FileName>OldCouple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamPrepp.AloneYoung">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAiAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AloneYoung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamPrepp.AloneOld">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AloneOld.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamPrepp.Child">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Child.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

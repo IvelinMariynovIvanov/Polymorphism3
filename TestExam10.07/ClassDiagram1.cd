@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TestExam10._07.Program" Collapsed="true">
+    <Position X="12.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestExam10._07.Component">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAFAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Models\Component.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TestExam10._07.Software">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAgAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Models\Software.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestExam10._07.Hardware">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAECAAAAAAAAAAAAgIAAAICAAQAAAIAAAAA=</HashCode>
+      <FileName>Models\Hardware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestExam10._07.PowerHardware">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAIAAAAAAAIAAAAA=</HashCode>
+      <FileName>Models\PowerHardware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestExam10._07.HeavyHardware">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAIAAAAAAAIAAAAA=</HashCode>
+      <FileName>Models\HeavyHardware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestExam10._07.ExpressSoftware">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ExpressSoftware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestExam10._07.LightSoftware">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAABAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\LightSoftware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

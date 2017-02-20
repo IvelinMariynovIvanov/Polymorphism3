@@ -1,0 +1,6 @@
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\3\bin\Debug\3.exe.config
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\3\obj\Debug\3.csprojResolveAssemblyReference.cache
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\3\bin\Debug\3.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\3\bin\Debug\3.pdb
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\3\obj\Debug\3.exe
+N:\Users\Ivelin\Documents\Visual Studio 2015\Projects\OOPBasic\Polymorphism\3\obj\Debug\3.pdb
